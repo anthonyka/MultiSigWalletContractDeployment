@@ -11,6 +11,6 @@ A simple example is made available in the [Test](Test) folder.
 
 ## Testing
 In order to test the contract without having to use web3.
-1. Create a contract similar to that [TestingInteraction](Test/TestingInteraction.sol)
-     - Modify the functions in order to reflect the name of the function in the destination contract you're interacting with and its parameters
+1. Create a contract similar to [TestingInteraction](Test/TestingInteraction.sol)
+     - Modify the functions in order to reflect the name of the functions in the destination contract you're interacting with and its parameters
 2. Call the destination contract functions through the intermediary TestingInteraction functions you've created
